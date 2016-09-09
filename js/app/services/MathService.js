@@ -11,4 +11,4 @@ function MathService(){
 
 angular
   .module('app')
-  .service('MathService', MathService)
+  .service('MathService', MathService);
